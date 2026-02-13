@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リミナル",
+  "base_artist": "春咲暖",
+  "createdAt": "2026-02-13T07:27:35.591347Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リミナル",
+      "artist": "春咲暖",
+      "has_synced": false,
+      "path": "select/pl_01_リミナル_春咲暖.txt"
+    }
+  ]
+}
